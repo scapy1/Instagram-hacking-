@@ -11,7 +11,7 @@ This tool is developed for educational purposes. Here it demonstrates how Instag
 
 <br>git clone https://github.com/scapy1/Instagram-hacking-.git</br>
 
-<br>cd Instagram-hacking</br>
+<br>cd Instagram-hacking-</br>
 
 <br>python3 instagram.py</br>
 
