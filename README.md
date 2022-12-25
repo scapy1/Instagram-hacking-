@@ -5,7 +5,8 @@
 
 
 # Disclaimer 
-This tool is developed for educational purposes. Here it demonstrates how Instagram hacking works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of This Tool !
+This tool is developed for educational purposes. Here it demonstrates how Instagram hacking works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of This Tool ! 
+# If you copy  Then Give me The Credit  ❤️
 # Installation On Termux 
 
 <br>git clone https://github.com/scapy1/Instagram-hacking-.git</br>
